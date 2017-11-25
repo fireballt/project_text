@@ -23,13 +23,14 @@ h3{
 .show input {
 	background:0;
 	border:0;
-	width: 210px;
+	width: 100%;
 	height: 25px;
 	text-align: right;
 	font-size: 21px;
 }
 .show .txt{
 	background: #e5a951;
+	text-align: right;
 }
 .buttoms{
 	margin-top:10px; 
